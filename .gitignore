@@ -1,0 +1,17 @@
+# Foundry
+/out/
+/cache/
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+/dependencies/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Editors and OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
