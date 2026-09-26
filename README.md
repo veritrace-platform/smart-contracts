@@ -9,9 +9,9 @@ batched shipment events and cold-chain incidents, written only by the platform r
 ## Design
 
 - Interface and batch manifest format:
-  [smart-contract.md](https://github.com/veritrace-platform/platform-infrastructure/blob/main/docs/contracts/smart-contract.md)
+  [smart-contract.md](https://github.com/veritrace-platform/veritrace/blob/main/docs/contracts/smart-contract.md)
 - Rationale:
-  [ADR-0014](https://github.com/veritrace-platform/platform-infrastructure/blob/main/docs/adr/0014-on-chain-commitments.md)
+  [ADR-0014](https://github.com/veritrace-platform/veritrace/blob/main/docs/adr/0014-on-chain-commitments.md)
 
 ## Toolchain
 
